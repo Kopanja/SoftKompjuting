@@ -1,0 +1,14 @@
+file,count
+video1.mp4,4
+video2.mp4,24
+video3.mp4,17
+video4.mp4,23
+video5.mp4,17
+video6.mp4,27
+video7.mp4,29
+video8.mp4,22
+video9.mp4,10
+video10.mp4,23
+
+sa cv.show: [('video1.mp4', 4), ('video2.mp4', 27), ('video3.mp4', 13), ('video4.mp4', 42), ('video5.mp4', 11), ('video6.mp4', 19), ('video7.mp4', 37), ('video8.mp4', 25), ('video9.mp4', 13), ('video10.mp4', 31)]
+            [('video1.mp4', 5), ('video2.mp4', 26), ('video3.mp4', 13), ('video4.mp4', 31), ('video5.mp4', 12), ('video6.mp4', 20), ('video7.mp4', 37), ('video8.mp4', 25), ('video9.mp4', 13), ('video10.mp4', 31)]
